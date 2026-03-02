@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="560" viewBox="0 0 1100 560">
+<rect width="100%" height="100%" fill="white"/>
+<text x="550.0" y="30" text-anchor="middle" font-size="22" font-family="Arial">Local Overall Comparison</text>
+<line x1="70" y1="380" x2="1060" y2="380" stroke="black"/>
+<line x1="70" y1="50" x2="70" y2="380" stroke="black"/>
+<rect x="80.0" y="50.0" width="127.0" height="330.0" fill="#2b9f6f" opacity="0.85"/>
+<text x="143.5" y="44.0" text-anchor="middle" font-size="12" font-family="Arial">0.459</text>
+<text x="143.5" y="398.0" transform="rotate(25 143.5,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp_se_exp_b1_fp8_static_m224_p224_a064_t512_k5_cap1024</text>
+<rect x="218.6" y="77.6" width="127.0" height="302.4" fill="#2b9f6f" opacity="0.85"/>
+<text x="282.1" y="71.6" text-anchor="middle" font-size="12" font-family="Arial">0.456</text>
+<text x="282.1" y="398.0" transform="rotate(25 282.1,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp_u1_u2_klmix_static</text>
+<rect x="357.1" y="119.0" width="127.0" height="261.0" fill="#2b9f6f" opacity="0.85"/>
+<text x="420.6" y="113.0" text-anchor="middle" font-size="12" font-family="Arial">0.453</text>
+<text x="420.6" y="398.0" transform="rotate(25 420.6,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp_a0_fp8_static_m256_p256_a000_t512</text>
+<rect x="495.7" y="127.8" width="127.0" height="252.2" fill="#2b9f6f" opacity="0.85"/>
+<text x="559.2" y="121.8" text-anchor="middle" font-size="12" font-family="Arial">0.452</text>
+<text x="559.2" y="398.0" transform="rotate(25 559.2,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp3_fp8_static_mixed512</text>
+<rect x="634.3" y="156.7" width="127.0" height="223.3" fill="#2b9f6f" opacity="0.85"/>
+<text x="697.8" y="150.7" text-anchor="middle" font-size="12" font-family="Arial">0.450</text>
+<text x="697.8" y="398.0" transform="rotate(25 697.8,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp2_fp8_static_manta256</text>
+<rect x="772.9" y="186.8" width="127.0" height="193.2" fill="#2b9f6f" opacity="0.85"/>
+<text x="836.4" y="180.8" text-anchor="middle" font-size="12" font-family="Arial">0.448</text>
+<text x="836.4" y="398.0" transform="rotate(25 836.4,398.0)" text-anchor="start" font-size="11" font-family="Arial">exp_r1_fp8_static_m224_p288_t512</text>
+<rect x="911.4" y="380.0" width="127.0" height="0.0" fill="#2b9f6f" opacity="0.85"/>
+<text x="974.9" y="374.0" text-anchor="middle" font-size="12" font-family="Arial">0.432</text>
+<text x="974.9" y="398.0" transform="rotate(25 974.9,398.0)" text-anchor="start" font-size="11" font-family="Arial">FP8_dynamic_base</text>
+<line x1="65" y1="380.0" x2="70" y2="380.0" stroke="black"/>
+<text x="60" y="384.0" text-anchor="end" font-size="11" font-family="Arial">0.432</text>
+<line x1="65" y1="215.0" x2="70" y2="215.0" stroke="black"/>
+<text x="60" y="219.0" text-anchor="end" font-size="11" font-family="Arial">0.445</text>
+<line x1="65" y1="50.0" x2="70" y2="50.0" stroke="black"/>
+<text x="60" y="54.0" text-anchor="end" font-size="11" font-family="Arial">0.459</text>
+</svg>

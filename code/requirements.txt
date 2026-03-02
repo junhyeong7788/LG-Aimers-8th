@@ -1,0 +1,46 @@
+# LG EXAONE 경량화 해커톤 - 평가 서버 환경 라이브러리
+# Python 3.11.14, CUDA 12.8 기준
+
+# Core libraries
+numpy==2.2.6
+pandas==2.3.3
+
+# Hugging Face ecosystem
+transformers==4.57.3
+tokenizers==0.22.1
+accelerate==1.10.1
+datasets==4.4.1
+huggingface-hub==0.36.0
+safetensors==0.7.0
+
+# Tokenization & Serialization
+sentencepiece==0.2.1
+protobuf==6.33.2
+
+# Evaluation metrics
+evaluate==0.4.6
+rouge_score==0.1.2
+sacrebleu==2.5.1
+
+# Utilities
+tqdm==4.67.1
+regex==2025.11.3
+nltk==3.9.2
+
+# Model compression
+compressed-tensors==0.13.0
+
+# Math & verification
+math-verify==0.8.0
+antlr4-python3-runtime==4.11.0
+sympy==1.14.0
+
+# Language & data structures
+langdetect==1.0.9
+immutabledict==4.2.2
+
+# PyTorch extensions
+torch-c-dlpack-ext==0.1.4
+
+# Inference engine
+vllm==0.14.1
