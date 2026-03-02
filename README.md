@@ -1,4 +1,4 @@
-# LG Aimers 8th Portfolio (EXAONE-4.0-1.2B Compression)
+# LG Aimers 8th (EXAONE-4.0-1.2B Compression)
 
 ## 1) 프로젝트 요약
 
